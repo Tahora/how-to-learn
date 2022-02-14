@@ -1,0 +1,19 @@
+.digits {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.digits .section-title {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.digits .section-subtitle {
+  margin: 20px auto 0;
+  width: 60%;
+}
+
+.digits .table {
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,13 @@
+.video {
+  padding-top: 100px;
+}
+
+.video .section-title {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.video .section-subtitle {
+  margin: 20px auto 0;
+  width: 60%;
+}

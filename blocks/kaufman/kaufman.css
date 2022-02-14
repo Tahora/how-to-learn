@@ -1,0 +1,23 @@
+.kaufman {
+  background-color: #1f1f1f;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  overflow: hidden;
+  position: relative;
+  z-index: -2;
+}
+
+.kaufman .section-title {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.kaufman .section-subtitle {
+  margin: 20px auto 0;
+  width: 60%;
+}
+
+.kaufman .table {
+  margin-left: auto;
+  margin-right: auto;
+}
